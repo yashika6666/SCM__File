@@ -1,0 +1,1 @@
+A README provides essential information about the project, including its purpose, setup instructions, and usage.
